@@ -1,0 +1,21 @@
+@import '../../variables';
+
+.about-us {
+  margin-bottom: 80px;
+
+  .panes {
+    margin-bottom: 20px;
+    @media screen and (min-width: $md) {
+    }
+  }
+
+  .thumbnails {
+    .thumbnail-row {
+    }
+  
+    .thumbnail-col {
+      overflow: hidden;
+    }
+  }
+  
+}
