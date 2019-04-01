@@ -2,7 +2,7 @@
 
 .pane {
   max-height: 800px;
-  box-shadow: 0 0 10px 2px rgba(0,0,0,.15);
+  box-shadow: 0 0 10px 5px rgba(0,0,0,.15);
   position: relative;
 
   &:hover {
@@ -55,7 +55,6 @@
     word-wrap: break-word;
     visibility: hidden;
 
-    font-weight: 400;
     text-align: left;
     width: 65%;
     bottom: 5px;
